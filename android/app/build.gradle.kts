@@ -11,8 +11,7 @@ plugins {
 android {
     namespace = "com.example.gakumon_app_01"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
-
+    ndkVersion = "25.2.9519653"
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
